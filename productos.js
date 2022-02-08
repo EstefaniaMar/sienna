@@ -1,0 +1,20 @@
+const productos = [
+    {id:01, tipo:"aretes", nombre:"Pendientes de esmeralda imitación", precio: 85, foto: "./media/pendientes esmeralda.png" },
+    {id:02, tipo:"aretes", nombre:"Pendientes de pasador de clip", precio: 75, foto: "./media/pendientes clip.png" },
+    {id:03, tipo:"aretes", nombre:"Pendientes anillo redondo doble", precio: 95, foto: "./media/pendintes anillo redondo doble.png" },
+    {id:04, tipo:"aretes", nombre:"Pendientes de flores", precio: 115, foto: "./media/pendientes flor.png" },
+    {id:05, tipo:"aretes", nombre:"Pendientes de rueda", precio: 95, foto: "./media/pendiente rueda.png" },
+    {id:06, tipo:"aretes", nombre:"Pendientes de aleación geometrica de diamantes", precio: 110, foto: "./media/aretitos.png" },
+    {id:07, tipo: "pulsera", nombre: "Pulsera de la amistad", precio: 45, foto: "./media/pulsera.png"},
+    {id:08, tipo: "aretes", nombre: "Colgantes amarillos", precio: 145, foto: "./media/a amarillo.png"},
+    {id:09, tipo: "aretes", nombre: "Aretes de fiesta dorados", precio: 95, foto: "./media/fiesta.png"},
+    {id:10, tipo: "aretes", nombre: "Pendientes colgantes de corazón de imitación", precio: 120, foto: "./media/diam.png"},
+    {id:11, tipo: "aretes", nombre: "Pendientes en forma de serpiente ", precio: 80, foto: "./media/serp.png"},
+    {id:12, tipo: "aretes", nombre: "Pendientes en forma de serpiente curvados con micro incrustaciones", precio: 130, foto: "./media/serpi.png"},
+    {id:13, tipo: "aretes", nombre: "Colgantes rojos", precio: 145, foto: "./media/rojos.png"},
+    {id:14, tipo: "aretes", nombre: "Aretes basicos triangulares", precio: 65, foto: "./media/basic.png"},
+    {id:15, tipo: "collar", nombre: "Collar tipo concha con inicial", precio: 165, foto: "./media/conchaletra.png"},
+    {id:16, tipo: "aretes", nombre: "Aretes en forma de cadena", precio: 65, foto: "./media/cadena.png"},
+    {id:17, tipo: "aretes", nombre: "Aretes cuadrados", precio: 75, foto: "./media/cuadrados.png"},
+    {id:18, tipo: "aretes", nombre: "Aretes circulares largos", precio: 60, foto: "./media/circu,png"}
+];
